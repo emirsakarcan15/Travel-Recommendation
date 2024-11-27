@@ -1,0 +1,151 @@
+#home {
+    color: white;
+    margin-left: 200px;
+    font-size: 26px;
+    text-decoration: none;
+}
+
+#about-us {
+    color: white;
+    font-size: 26px;
+    text-decoration: none;
+}
+
+#contact-us {
+    color: white;
+    margin-right: 35px;
+    font-size: 26px;
+    text-decoration: none;
+}
+
+#contact-us-2 {
+    color: white;
+    margin-right: 490px;
+    font-size: 26px;
+    text-decoration: none;
+}
+
+#input-form {
+    margin-top: 5px;
+}
+
+#reset-button {
+    margin-left: 4px;
+}
+
+body {
+    background-image: url("https://images.pexels.com/photos/325185/pexels-photo-325185.jpeg?auto=compress&cs=tinysrgb&w=800");
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+
+#header {
+    color: black;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 600px;
+    font-size: 90px;
+    font-weight: 600;
+    line-height: 1.1;
+}
+
+#sub-header {
+    color: black;
+    margin-left: 110px;
+    margin-right: 600px;
+    font-weight: 800;
+    font-size: 28px;
+    border: 2px solid black;
+    padding: 5px;
+    box-shadow: 10px 10px black;  
+}
+
+#line {
+    height: 40px;
+    width: 310px;
+    margin-left: 110px;
+}
+
+#instagram-photo {
+    height: 40px;
+    width: 40px;
+}
+
+#youtube-photo {
+    height: 50px;
+    width: 50px;
+}
+
+#x-photo {
+    height: 50px;
+    width: 50px;
+}
+
+#line-2 {
+    height: 40px;
+    width: 310px;
+}
+
+#card-1 {
+    margin-top: 120px;
+    margin-left: 340px;
+    margin-right: 340px;
+}
+
+#our-team {
+    margin-top: 160px;
+    margin-left: 500px;
+    font-size: 100px;
+    font-weight: 600;
+    color: black;
+}
+
+#line-3 {
+    height: 7px;
+    width: 810px;
+    background-color: black;
+    margin-left: 310px;
+    margin-top: 125px;
+}
+
+.card-title {
+    text-align: center;
+    font-size: 30px;
+}
+
+.card-text {
+    text-align: center;
+}
+
+#comments {
+    margin-left: 100px;
+    margin-right: 450px;
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#contact-us-name {
+    font-size: 25px;
+}
+
+#contact-us-email {
+    font-size: 25px;
+}
+
+#contact-us-comments {
+    font-size: 25px;
+}
+
+#comment-button {
+    margin-top: 10px;
+    height: 40px;
+    width: 845px;
+} 
+
+#data {
+    height: 170px;
+    width: 1100px;
+    margin-left: 160px;
+    margin-top: 700px;
+}
